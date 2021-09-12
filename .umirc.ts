@@ -5,6 +5,7 @@ export default defineConfig({
   nodeModulesTransform: {
     type: 'none',
   },
+  outputPath: 'build',
   routes: [{ path: '/', component: '@/pages/index' }],
   fastRefresh: {},
   theme: {
