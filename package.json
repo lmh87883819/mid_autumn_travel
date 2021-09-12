@@ -1,6 +1,5 @@
 {
   "name": "mid-autumn",
-  "homepage": "./",
   "scripts": {
     "start": "umi dev",
     "build": "umi build",
