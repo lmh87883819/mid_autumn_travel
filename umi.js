@@ -49,7 +49,7 @@
     (n.o = function (e, t) {
       return Object.prototype.hasOwnProperty.call(e, t);
     }),
-    (n.p = '/'),
+    (n.p = 'https://lmh87883819.github.io/mid_autumn_travel/'),
     n((n.s = 0));
 })({
   '++zV': function (e, t, n) {
