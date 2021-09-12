@@ -6,6 +6,7 @@ export default defineConfig({
     type: 'none',
   },
   outputPath: 'build',
+  publicPath: 'https://lmh87883819.github.io/mid_autumn_travel/',
   routes: [{ path: '/', component: '@/pages/index' }],
   fastRefresh: {},
   theme: {
